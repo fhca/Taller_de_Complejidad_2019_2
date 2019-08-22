@@ -1,5 +1,5 @@
-# Taller_de_Complejidad_2019_2
-## Tarea 1 (avances para el martes 27 de agosto):
+#Taller_de_Complejidad_2019_2
+##Tarea 1 (avances para el martes 27 de agosto):
 En la imagen `palmeras.jpg`medir la dimensión fractal de las palmeras en la imagen.
 
 Ejemplo de pasos por hacer
